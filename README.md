@@ -1,12 +1,10 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on: 🤫
 - 🌱 I’m currently learning:
   - ✅ .NET (6.0+)
   - ✅ Python
 - 💬 Ask me about
   - C++
-  - Clean code
 - 📫 How to reach me:
   - ✅ [LinkedIn](https://www.linkedin.com/in/accodev/) 
 
