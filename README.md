@@ -1,10 +1,12 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning:
-  - ✅ .NET (6.0+)
-  - ✅ Python
+- 👯 I’m looking to collaborate on
+  - Any projects that needs help on C++, C#, streamlining the CI/CD pipeline!
 - 💬 Ask me about
   - C++
+  - C#
+  - GitHub Actions
+  - Git
 - 📫 How to reach me:
   - ✅ [LinkedIn](https://www.linkedin.com/in/accodev/) 
 
