@@ -2,8 +2,8 @@
 
 <p align="center">
   <b>Software developer at <a href="https://github.com/fiskaltrust">@fiskaltrust</a></b><br>
-  Fiscalization and POS middleware — modern C++ and .NET where the money actually moves,<br>
-  Python and TypeScript for everything I build around it.
+  Fiscalization and POS middleware in modern C++ and .NET,<br>
+  with Python and TypeScript for supporting tools and services.
 </p>
 
 <p align="center">
@@ -31,7 +31,7 @@
   <img src="https://img.shields.io/badge/.NET%20Framework-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET Framework">
 </p>
 
-### Everything else I reach for
+### Other technologies
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
@@ -48,7 +48,7 @@
   <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite">
 </p>
 
-### Currently nerding out on
+### Current focus
 
 <p>
   <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code">
@@ -59,19 +59,17 @@
 
 ---
 
-### What I actually do
+### What I do
 
-- **Fiscalization & POS middleware** at fiskaltrust — the layer sitting between a point of sale and the taxman. Mostly C# on .NET, with the Italian market as my patch.
-- **Internal tooling** nobody sees but everybody needs: deployment automation, debug harnesses, production dashboards.
-- **A local LLM dev stack** I keep rebuilding out of stubbornness — model routing, MCP servers, local embeddings, and persistent memory for coding agents.
+- **Fiscalization & POS middleware** at fiskaltrust — middleware connecting point-of-sale systems to fiscal authorities, primarily in C# on .NET for the Italian market.
+- **Internal tooling** — deployment automation, debug harnesses, and production dashboards.
+- **Local LLM stack** — model routing, MCP servers, local embeddings, and persistent memory for coding agents.
 
 ### Open source
 
-I contribute where I already work, and I keep my forks honest.
-
-- **[fiskaltrust/middleware](https://github.com/fiskaltrust/middleware)** — the open-source .NET fiscalization middleware. The part of the day job that happens to be public.
-- **[accodev/agentmemory](https://github.com/accodev/agentmemory)** — a patched fork of AgentMemory carrying search-ranking fixes, with a CI job that realigns it against upstream daily so the patch never quietly rots.
-- **[jovabot](https://github.com/accodev/jovabot)** — a Telegram bot for Jovanotti lyrics. From 2021, still standing.
+- **[fiskaltrust/middleware](https://github.com/fiskaltrust/middleware)** — the open-source .NET fiscalization middleware from fiskaltrust.
+- **[accodev/agentmemory](https://github.com/accodev/agentmemory)** — fork of AgentMemory with search-ranking fixes, synced daily with upstream via CI.
+- **[jovabot](https://github.com/accodev/jovabot)** — Telegram bot for Jovanotti lyrics, maintained since 2021.
 
 ---
 
